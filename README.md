@@ -8,9 +8,18 @@ Follow the download instructions on https://stanfordnlp.github.io/CoreNLP/usage.
 
 Focus on the the paragraph "Simple API".
 
-Pull the pom, .class and .java to your repository. 
+Pull the .class and .java files to your repository and copy them in a new repository which you name src (for source)
 
 Set the source directory consequently.
+
+    File > Project Structure
+
+    Under Project Settings > Modules
+
+    Under 'Sources' tab, right-click on 'src' folder and select 'Sources'.
+
+    Apply changes.
+
 
 Use the following command line :  
                     
