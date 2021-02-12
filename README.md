@@ -6,6 +6,8 @@ I worked on the Intellij environment:
 
 Follow the download instructions on https://stanfordnlp.github.io/CoreNLP/usage.html.
 
+(For that download the 4.0.0 version from https://stanfordnlp.github.io/CoreNLP/history.html)
+
 Focus on the the paragraph "Simple API".
 
 Pull the .class and .java files to your repository and copy them in a new repository which you name src (for source)
